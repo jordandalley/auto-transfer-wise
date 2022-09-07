@@ -27,7 +27,7 @@ TARGET_CURRENCY=NZD
 MINIMUM_BALANCE=500
 
 # Enter the account number of the recipient to receive the funds (This account must already be added as a recipient in the web portal)
-TARGET_ACCOUNT=060901078703100
+TARGET_ACCOUNT=1234567891011121314
 
 checkAccount() {
         # Generate a UUID for idempotency
