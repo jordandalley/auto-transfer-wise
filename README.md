@@ -21,7 +21,7 @@ Once complete, the "getQuote" function is called.
 
 The "getQuote" function gets the current offered rate (for a "BALANCE" to "BANK_TRANSFER" rate) from Wise for transfers between the "SOURCE_CURRENCY" and "TARGET_CURRENCY" and generates a "Quote ID" which is required for requesting a transfer. Once a quote is generated, the "startTransfer" function is called.
 
-The "startTransfer" function simply executes a transfer request by using the information gathered by the earlier three functions.
+The "startTransfer" function simply executes a transfer request by using the information gathered by the earlier two functions.
 
 # Disclaimer
 
