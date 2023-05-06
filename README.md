@@ -1,5 +1,5 @@
 # Wise Balance Transfer Automator
-Automatically transfers funds out of your Wise account, performs currency conversion at a current rate and performs an automated transfer to a recipient of your choice.
+Automatically transfers funds out of your Wise (Formerly Transferwise) account, performs currency conversion at a current rate and performs an automated transfer to a recipient of your choice.
 
 # Installation
 
